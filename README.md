@@ -20,7 +20,7 @@
 ## Пример
 
 ### Исходное состояние
-![Живой код](https://ignor-gto.github.io/css_gradient/)
+[![Живой код](https://ignor-gto.github.io/css_gradient/preview.png)](https://ignor-gto.github.io/css_gradient/)
 
 ## Требования
 
