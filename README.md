@@ -19,10 +19,16 @@
 
 ## Пример
 
-### Исходное состояние
+### Скриншот
 [![Живой код](https://ignor-gto.github.io/css_gradient/preview.png)](https://ignor-gto.github.io/css_gradient/)
 
-## Требования
+
+### Ссылка на живой код
+(![Живой код]https://ignor-gto.github.io/css_gradient/)
+
+
+### Исходное состояние
+<iframe src="https://ignor-gto.github.io/css_gradient/" width="100%" height="500" style="border:none;"></iframe>
 
 - Современный браузер с поддержкой CSS3 (например, Chrome, Firefox, Edge).
 
