@@ -30,13 +30,13 @@
 
 ### 📷 Скриншот
 
-[![Живой код](https://ignor-gto.github.io/css_gradient/preview.png)](https://ignor-gto.github.io/css_gradient/)
+[![Живой код](https://ignor-gto.github.io/CSS_Gradient/css_gradient/preview.png)](https://ignor-gto.github.io/css_gradient/)
 
 ---
 
 ## 🔗 Демо
 
-👉 [Посмотреть пример вживую](https://ignor-gto.github.io/css_gradient/)
+👉 [Посмотреть пример вживую](https://ignor-gto.github.io/CSS_Gradient/css_gradient/)
 
 ---
 
